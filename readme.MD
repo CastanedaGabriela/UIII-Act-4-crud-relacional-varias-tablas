@@ -22,3 +22,13 @@ Este es el repositorio por si hay actualizaciones y esas cosas. La explicación 
   
 
 3. Listo
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c1.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c2.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c3.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c4.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c5.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c6.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c7.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c8.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c9.PNG)
+! [] (https://github.com/CastanedaGabriela/UIII-Act-4-crud-relacional-varias-tablas/blob/main/c10.PNG)
